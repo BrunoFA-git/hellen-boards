@@ -17,9 +17,9 @@ Or, under Windows, you'll need to install a special environment like MSYS2 (http
 	* For more info, please see: https://github.com/BrunoFA-git/hellen-one/wiki
 - ./hellen121vag
 	* An open-source 121-pin sample board, partially compatible with VAG ME7.x connectors:
-          https://github.com/ECU-tech/hellen121vag/
+          https://github.com/ecu-tech/hellen121vag/
 - ./hellen81
 	* Ultracompact and cheap yet full-functional 8-Cylinder ECU board:
-	  https://github.com/ECU-tech/hellen81/
+	  https://github.com/ecu-tech/hellen81/
 - ./commercial_products
 	* a list of PnP boards is not available!
